@@ -10,7 +10,10 @@
     	<class name="com.qa.ebay.testcases.SamsungcellphoneandsamortphoneTest"/>
     	<class name="com.qa.ebay.testcases.CategoriesTest"/>
      -->
-   		 <class name="com.qa.ebay.testcases.CategoriesTest"/>
+   		 <class name="com.qa.ebay.testcases.HomePageTest"/>
+    	<class name="com.qa.ebay.testcases.ElectronicsPageTest"/>
+    	<class name="com.qa.ebay.testcases.SamsungcellphoneandsamortphoneTest"/> 
+      <class name="com.qa.ebay.testcases.CategoriesTest"/>
     
     </classes>
   </test> <!-- Test -->
