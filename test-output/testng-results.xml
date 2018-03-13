@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44702" started-at="2018-03-13T15:01:25Z" finished-at="2018-03-13T15:02:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44702" started-at="2018-03-13T15:01:25Z" finished-at="2018-03-13T15:02:09Z">
+      <class name="com.qa.ebay.testcases.CategoriesTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.qa.ebay.testcases.CategoriesTest@685cb137]" name="setup" is-config="true" duration-ms="38011" started-at="2018-03-13T11:01:25Z" finished-at="2018-03-13T11:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="selects8searchresult1Test()[pri:0, instance:com.qa.ebay.testcases.CategoriesTest@685cb137]" name="selects8searchresult1Test" duration-ms="4430" started-at="2018-03-13T11:02:03Z" finished-at="2018-03-13T11:02:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selects8searchresult1Test -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.qa.ebay.testcases.CategoriesTest@685cb137]" name="teardown" is-config="true" duration-ms="2207" started-at="2018-03-13T11:02:07Z" finished-at="2018-03-13T11:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.ebay.testcases.CategoriesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
